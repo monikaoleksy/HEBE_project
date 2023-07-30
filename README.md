@@ -1,4 +1,4 @@
-# Cosmetic Produts Comparison
+# Cosmetic Products Comparison
 
 Nowadays we have a lot of different types of products and brands avaiable on the market and their number is constantly growing, especially in the beauty industry. 
 When buying cosmetic products we want to make the best choice comparing their ingredients, reviews and then looking for the best price, but it is hard to do in this volume of data.
